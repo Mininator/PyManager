@@ -1,2 +1,2 @@
 # PyManager
-![Logo de Wiibrlyt](assets/logoreadme.png)
+![banner_PyManager](banner.png)
