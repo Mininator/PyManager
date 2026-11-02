@@ -17,12 +17,12 @@ Tout les fichier créer à coté du l'application ou ( APPDATA\PyManager si le d
 `pythons.json`	Python ajoutés / retirés manuellement
 `pip_install.log`	Journal des installations de pip (utile en cas d'échec)
 
-# Langue 
+### Langue 
 Choix dans Paramètres → Langue : Français, English, Español, Deutsch, Português, Italiano, Nederlands, Русский, 中文, 日本語. 
 Au premier lancement, la langue de Windows est utilisée si elle fait partie de la liste (sinon l'anglais). Après un changement, 
 PyManager propose de redémarrer.
 
 # Dépannage
-### Problème                            ### Solution
+### Problème                             Solution
 Le bouton Réinstalle pip n'apparait pas / Il n'existe que pour les Python embeddable `python3xx._pt`
 Un Python ** Microsoft Store ** n'apparaît pas /	Installe-le depuis le Store : seuls les Python réellement installés sont listés
