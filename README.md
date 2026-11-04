@@ -1,6 +1,6 @@
 # PyManager
 
-![banner_PyManager](bannerV2.png)
+![banner_PyManager](banner_github.png)
 
 Application Windows (PyQt5) pour voir, ajouter et gérer les installations Python de ton ordinateur
 et leurs bibliothèques (pip).
